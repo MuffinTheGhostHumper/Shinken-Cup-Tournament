@@ -2,6 +2,9 @@
 
 網址: https://mordhau-server-motd2.vercel.app/
 
+### 修改
+
+直接改這個檔案就可以了 https://github.com/e39a562r/mordhau-server-motd2/blob/main/pages/index.mdx
 
 
 
