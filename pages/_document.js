@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Mordhau TW server rule',
     description: '',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: 'https://mordhau-server-motd2.vercel.app/images/perma%20ban%201.jpg'
   }
 
   return (
