@@ -2,7 +2,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Mordhau TW server rule',
+    title: 'Mordhau Duel server rule',
     description: '',
     image: 'https://mordhau-server-motd2.vercel.app/images/perma%20ban%201.jpg'
   }
