@@ -63,3 +63,9 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+.container:first-child {
+  padding-top: 0
+}
+.container:first-child .h1:first-child {
+  margin-bottom: 0
+}
