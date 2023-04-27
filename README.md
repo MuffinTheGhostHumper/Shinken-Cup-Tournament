@@ -1,4 +1,4 @@
-# Mordhau server 用的規則說明頁面(the url you need to put it in motd👇)
+# (the url you need to put it in motd👇)
 
 網址(url): https://shinken-cup-tournament.vercel.app/zh
 
