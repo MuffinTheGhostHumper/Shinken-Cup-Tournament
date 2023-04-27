@@ -1,6 +1,6 @@
 # (the url you need to put it in motd👇)
 
-網址(url): https://shinken-cup-tournament.vercel.app/zh
+網址(url): https://shinken-cup-tournament.vercel.app/
 
 ### 修改
 
