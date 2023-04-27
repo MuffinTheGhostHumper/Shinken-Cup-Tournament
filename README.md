@@ -6,7 +6,7 @@
 
 直接改這個檔案就可以了 
 
-https://github.com/e39a562r/mordhau-server-motd2/tree/main/pages
+https://github.com/MuffinTheGhostHumper/Shinken-Cup-Tournament/tree/main/pages
 
 
 
