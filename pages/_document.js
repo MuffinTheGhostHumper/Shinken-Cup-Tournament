@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Mordhau Duel server rule',
     description: '',
-    image: 'https://shinken-cup-tournament.vercel.app/public/images/katana.jpg'
+    image: 'https://shinken-cup-tournament.vercel.app/images/katana.jpg'
   }
 
   return (
