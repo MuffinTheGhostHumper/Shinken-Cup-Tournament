@@ -1,6 +1,6 @@
 # Mordhau server 用的規則說明頁面
 
-網址: https://mordhau-server-motd2.vercel.app/
+網址: https://shinken-cup-tournament.vercel.app/zh
 
 ### 修改
 
