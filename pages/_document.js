@@ -2,7 +2,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'p',
+    title: 'Shinken-Cup-Tournament',
     description: 'Tournament',
     image: 'https://shinken-cup-tournament.vercel.app/images/katana.jpg'
   }
