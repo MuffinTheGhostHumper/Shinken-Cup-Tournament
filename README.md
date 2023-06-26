@@ -2,9 +2,9 @@
 
 網址(url): https://shinken-cup-tournament.vercel.app/
 
-### 修改
+### 修改(Edit)
 
-直接改這個檔案就可以了 
+直接改這個檔案就可以了 (The data to be edited is in this path👇)
 
 https://github.com/MuffinTheGhostHumper/Shinken-Cup-Tournament/tree/main/pages
 
